@@ -2,7 +2,8 @@
 
 ## 0.11.3
 
-- [Fix] Allow for React 16 as peer dependency.
+- [Chore] Allow for React 16 as peer dependency.
+- [Chore] Update all other dependencies.
 
 ## 0.11.2
 
